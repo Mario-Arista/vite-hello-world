@@ -16,4 +16,10 @@ export default {
 
 <style>
 
+h1 {
+    color: greenyellow;
+    font-size: 30px;
+    font-weight: bold;
+}
+
 </style>
