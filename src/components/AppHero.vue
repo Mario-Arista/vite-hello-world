@@ -13,7 +13,7 @@ export default {
     data() {
     return  {
 
-      paragrafo: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam sit voluptatibus assumenda blanditiis dolorem dolorum amet delectus, deleniti eius, ratione iusto minus quas est enim aperiam fuga doloribus. Magni, consectetur.",
+      paragrafo: "Lorem ipsum dolor sit amet consectetur bondo adipisicing elit. Quibusdam sit voluptatibus gargantuesco assumenda blanditiis dolorem dolorum amet delectus, deleniti eius, ratione iusto minus quas est enim aperiam fuga doloribus. Magni, consectetur.",
         bottone: "Bottone Random",
     }
 
@@ -54,6 +54,9 @@ export default {
 
 .container p {
     text-align: center;
+    line-height: 1.5;
+
+    color: white;
 }
 
 .container button {
@@ -61,6 +64,8 @@ export default {
 
     border-radius: 4px;
     border: 1px solid greenyellow;
+
+    font-size: 15px;
 
     color: greenyellow;
     background-color: transparent;
